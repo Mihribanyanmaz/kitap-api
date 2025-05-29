@@ -54,6 +54,39 @@
         "kategori_ad": "Hikaye"
       },
       "yazar": "Sait Faik Abasıyanık"
+    },
+    {
+      "kitap_id": 6,
+      "kitap_ad": "Küçük Prens",
+      "kitap_yil": 2015,
+      "kitap_resim": "kucuk_prens",
+      "kategori": {
+        "kategori_id": 3,
+        "kategori_ad": "Çocuk Kitapları"
+      },
+      "yazar": "Antoine de Saint-Exupéry"
+    },
+    {
+      "kitap_id": 7,
+      "kitap_ad": "Çocuk Kalbi",
+      "kitap_yil": 2016,
+      "kitap_resim": "cocuk_kalbi",
+      "kategori": {
+        "kategori_id": 3,
+        "kategori_ad": "Çocuk Kitapları"
+      },
+      "yazar": "Edmondo De Amicis"
+    },
+    {
+      "kitap_id": 8,
+      "kitap_ad": "Endişe Ağacı",
+      "kitap_yil": 2018,
+      "kitap_resim": "endise_agaci",
+      "kategori": {
+        "kategori_id": 3,
+        "kategori_ad": "Çocuk Kitapları"
+      },
+      "yazar": "Enes Yavuz"
     }
   ]
 }
