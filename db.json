@@ -1,0 +1,59 @@
+{
+  "kitaplar": [
+    {
+      "kitap_id": 1,
+      "kitap_ad": "Kürk Mantolu Madonna",
+      "kitap_yil": 2008,
+      "kitap_resim": "kurk",
+      "kategori": {
+        "kategori_id": 1,
+        "kategori_ad": "Drama"
+      },
+      "yazar": "Sabahattin Ali"
+    },
+    {
+      "kitap_id": 2,
+      "kitap_ad": "Eylül",
+      "kitap_yil": 2009,
+      "kitap_resim": "eylul",
+      "kategori": {
+        "kategori_id": 1,
+        "kategori_ad": "Drama"
+      },
+      "yazar": "Mehmet Rauf"
+    },
+    {
+      "kitap_id": 3,
+      "kitap_ad": "Uçurtma Avcısı",
+      "kitap_yil": 2010,
+      "kitap_resim": "ucurtma",
+      "kategori": {
+        "kategori_id": 1,
+        "kategori_ad": "Drama"
+      },
+      "yazar": "Khaled Hosseini"
+    },
+    {
+      "kitap_id": 4,
+      "kitap_ad": "Ömer’in Çocukluğu",
+      "kitap_yil": 2000,
+      "kitap_resim": "omer",
+      "kategori": {
+        "kategori_id": 2,
+        "kategori_ad": "Hikaye"
+      },
+      "yazar": "Ömer Seyfettin"
+    },
+    {
+      "kitap_id": 5,
+      "kitap_ad": "Sait Faik’ten Hikayeler",
+      "kitap_yil": 2001,
+      "kitap_resim": "sait",
+      "kategori": {
+        "kategori_id": 2,
+        "kategori_ad": "Hikaye"
+      },
+      "yazar": "Sait Faik Abasıyanık"
+    }
+  ]
+}
