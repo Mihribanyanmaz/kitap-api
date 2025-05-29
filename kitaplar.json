@@ -87,6 +87,51 @@
         "kategori_ad": "Çocuk Kitapları"
       },
       "yazar": "John Green"
+    },
+    {
+      "kitap_id": 9,
+      "kitap_ad": "Kalk, Çalış, Başarısız Ol",
+      "kitap_yil": 2023,
+      "kitap_resim": "kalkcalisbasarisizol",
+      "kategori": {
+        "kategori_id": 4,
+        "kategori_ad": "Kişisel Kitaplar"
+      },
+      "yazar": "Elizabeth Day"
+    },
+    {
+      "kitap_id": 10,
+      "kitap_ad": "İyileştiren Sınırlar",
+      "kitap_yil": 2022,
+      "kitap_resim": "iyilestirensinirlar",
+      "kategori": {
+        "kategori_id": 4,
+        "kategori_ad": "Kişisel Kitaplar"
+      },
+      "yazar": "Nedra Glover Tawwab"
+    },
+    {
+      "kitap_id": 11,
+      "kitap_ad": "Varoluş Süreci",
+      "kitap_yil": 2021,
+      "kitap_resim": "varolussureci",
+      "kategori": {
+        "kategori_id": 4,
+        "kategori_ad": "Kişisel Kitaplar"
+      },
+      "yazar": "Rollo May"
+    },
+    {
+      "kitap_id": 12,
+      "kitap_ad": "Akıllı Yaşama Sanatı",
+      "kitap_yil": 2020,
+      "kitap_resim": "akilliyasam",
+      "kategori": {
+        "kategori_id": 4,
+        "kategori_ad": "Kişisel Kitaplar"
+      },
+      "yazar": "Baltasar Gracián"
     }
   ]
 }
+
